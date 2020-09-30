@@ -1,0 +1,4 @@
+-- \? - all commands;
+-- \l - list of created databases;
+-- CREATE DATABASE name_of_database; - create DB;
+-- \c name_of_database - connect to DB;
